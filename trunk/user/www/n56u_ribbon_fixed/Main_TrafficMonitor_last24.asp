@@ -13,6 +13,8 @@
 
 <script type="text/javascript" src="/jquery.js"></script>
 <script type="text/javascript" src="/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/bootstrap/js/myjs.js"></script>
+<link rel="stylesheet" type="text/css" href="/bootstrap/css/mystyle.css">
 <script type="text/javascript" src="/bootstrap/js/highcharts.js"></script>
 <script type="text/javascript" src="/bootstrap/js/highcharts_theme.js"></script>
 <script type="text/javascript" src="/net_speed_tabs.js"></script>
