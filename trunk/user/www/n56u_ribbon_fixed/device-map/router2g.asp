@@ -12,6 +12,32 @@
 <link rel="stylesheet" type="text/css" href="/bootstrap/css/main.css">
 <link rel="stylesheet" type="text/css" href="/bootstrap/css/engage.itoggle.css">
 
+<style>
+.btn-info{
+    background-image: unset!important;
+    background-color: #00A1D6!important;
+    border: solid 1px #00A1D6!important;
+}
+.btn-info:hover{
+    background-color: #00B5E5!important;
+    color: #fff;
+}
+.btn{
+    outline: none!important;
+}
+.btn-primary{
+    text-shadow: none!important;
+    background-image: unset!important;
+    background-color: #00A1D6!important;
+    border: solid 1px #00A1D6!important;
+}
+.btn-primary:hover{
+    background-color: #00B5E5!important;
+    color: #fff;
+}
+</style>
+
+
 <script type="text/javascript" src="/jquery.js"></script>
 <script type="text/javascript" src="/bootstrap/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/bootstrap/js/engage.itoggle.min.js"></script>
