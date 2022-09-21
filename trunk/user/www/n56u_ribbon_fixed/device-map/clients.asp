@@ -6,6 +6,32 @@
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="-1">
 
+<style>
+.btn-info{
+    background-image: unset!important;
+    background-color: #00A1D6!important;
+    border: solid 1px #00A1D6!important;
+}
+.btn-info:hover{
+    background-color: #00B5E5!important;
+    color: #fff;
+}
+.btn{
+    outline: none!important;
+}
+.btn-primary{
+    text-shadow: none!important;
+    background-image: unset!important;
+    background-color: #00A1D6!important;
+    border: solid 1px #00A1D6!important;
+}
+.btn-primary:hover{
+    background-color: #00B5E5!important;
+    color: #fff;
+}
+</style>
+
+
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="icon" href="images/favicon.png">
 <link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.min.css">
