@@ -11,6 +11,34 @@
 <link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="/bootstrap/css/main.css">
 
+
+<style>
+.btn-info{
+    background-image: unset!important;
+    background-color: #00A1D6!important;
+    border: solid 1px #00A1D6!important;
+}
+.btn-info:hover{
+    background-color: #00B5E5!important;
+    color: #fff;
+}
+.btn{
+    outline: none!important;
+}
+.btn-primary{
+    text-shadow: none!important;
+    background-image: unset!important;
+    background-color: #00A1D6!important;
+    border: solid 1px #00A1D6!important;
+}
+.btn-primary:hover{
+    background-color: #00B5E5!important;
+    color: #fff;
+}
+
+</style>
+
+
 <script type="text/javascript" src="/jquery.js"></script>
 <script type="text/javascript" src="formcontrol.js"></script>
 <script type="text/javascript" src="/state.js"></script>
