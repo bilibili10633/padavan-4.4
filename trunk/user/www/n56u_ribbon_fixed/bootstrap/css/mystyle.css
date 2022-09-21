@@ -136,3 +136,6 @@ option:hover{
     -webkit-box-shadow:none!important;
     box-shadow: none!important;
 }
+#LoadingBar{
+    width:unset!important;
+}
