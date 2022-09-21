@@ -1,19 +1,138 @@
 body{
+    /* background-image: url(./img/defaultbg.png); */
     background: url(https://api.ixiaowai.cn/api/api.php) repeat-y!important;
     background-size: cover;
+    min-height: 874px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .wrapper{
+    min-height: 874px;
     width: 90%!important;
     background-color: #9191918a;
     backdrop-filter: blur(5px);
     overflow: hidden;
     margin-top: 2%;
+    min-width: 1343px;
 }
 
+#syslog_panel_button{
+    background-color: #00A1D6!important;
+    background-image: unset!important;
+    border: none!important;
+    bottom: -25px!important;
+    width: 88px!important;
+    height: 25px!important;
+    border-radius: 0 0 10px 10px !important;
+    color: #fff;
+}
+#syslog_panel_button:hover{
+    background-color: #00B5E5!important;
+    color: #fff;
+}
 .syslog_panel{
     left: unset!important;
+}
+.btn-info{
+    background-image: unset!important;
+    background-color: #00A1D6!important;
+    border: solid 1px #00A1D6!important;
+}
+.btn-info:hover{
+    background-color: #00B5E5!important;
+    color: #fff;
 }
 #log_area{
     max-width: 958px;
     max-height: 572px;
+}
+.box_head{
+    background-image: unset!important;
+    background-color: #f5f5f5!important;
+    color: #00A1D6!important;
+    text-shadow: none!important;
+    font-size: 18px!important;
+    height: 43px!important;
+    line-height: 43px!important;
+    text-indent: 19px!important;
+}
+.side_nav{
+    width: 240px!important;
+    border: none!important;
+    margin-left: 84px;
+}
+
+.side_nav ul .active a{
+    background-image: unset!important;
+    background-color: #00B5E5!important;
+    
+}
+
+.side_nav ul li{
+    width: 240px!important;
+    height: 40px!important;
+    line-height: 40px!important;
+}
+.side_nav ul li a{
+    
+    text-shadow: none!important;
+    height: 100%!important;
+    line-height: 40px;
+    
+}
+#mainMenu li a{
+    background-color: #fff;
+    background-image: none!important;
+}
+.side_nav ul li a:hover{
+    color: #fff;
+    background-color: #00c4fa!important;
+    background-image: unset!important;
+}
+.side_nav a{
+    border: none!important;
+}
+.badge{
+    margin-left: 30px;
+}
+.big-icons{
+    margin: auto;
+}
+.arrow-right{
+    display: none;
+}
+select{
+    outline: none!important;
+}
+
+option{
+    background-color: #fff!important;
+}
+
+option:hover{
+    background: unset!important;
+    background-color: #00B5E5!important;
+    color: #fff!important;
+}
+.btn{
+    outline: none!important;
+}
+.btn-primary{
+    text-shadow: none!important;
+    background-image: unset!important;
+    background-color: #00A1D6!important;
+    border: solid 1px #00A1D6!important;
+}
+.btn-primary:hover{
+    background-color: #00B5E5!important;
+    color: #fff;
+}
+.adv_info{
+    border-bottom: none!important;
+}
+#log_area{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.well{
+    -webkit-box-shadow:none!important;
+    box-shadow: none!important;
 }
