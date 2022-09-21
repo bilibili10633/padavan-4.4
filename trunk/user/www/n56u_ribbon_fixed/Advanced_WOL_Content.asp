@@ -12,6 +12,10 @@
 <link rel="stylesheet" type="text/css" href="/bootstrap/css/main.css">
 
 <script type="text/javascript" src="/jquery.js"></script>
+
+<script type="text/javascript" src="/bootstrap/js/myjs.js"></script>
+<link rel="stylesheet" type="text/css" href="/bootstrap/css/mystyle.css">
+
 <script type="text/javascript" src="/bootstrap/js/jquery.xdomainajax.js"></script>
 <script type="text/javascript" src="/bootstrap/js/jquery.maskedinput-1.3.min.js"></script>
 <script type="text/javascript" src="/state.js"></script>
